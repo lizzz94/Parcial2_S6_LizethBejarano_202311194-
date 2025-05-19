@@ -14,6 +14,16 @@ interface Flight {
   image: string;
 }
 
+interface Airline {
+  id: number;
+  airlineName: string;
+  country: string;
+  city: string;
+  address: string;
+  identityColor: string;
+  slogan: string;
+  flights: Flight[];
+
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',

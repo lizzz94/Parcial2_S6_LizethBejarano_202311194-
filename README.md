@@ -1,1 +1,2 @@
-# Parcial2_S6_LizethBejarano_202311194-
+# Lizeth Bejarano Murillo
+# 202311194
